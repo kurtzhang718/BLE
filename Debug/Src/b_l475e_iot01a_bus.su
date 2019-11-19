@@ -1,0 +1,7 @@
+b_l475e_iot01a_bus.c:129:9:BSP_SPI3_DeInit	8	static
+b_l475e_iot01a_bus.c:155:9:BSP_SPI3_Send	8	static
+b_l475e_iot01a_bus.c:172:10:BSP_SPI3_Recv	8	static
+b_l475e_iot01a_bus.c:189:9:BSP_SPI3_SendRecv	16	static
+b_l475e_iot01a_bus.c:258:9:BSP_GetTick	0	static
+b_l475e_iot01a_bus.c:264:26:MX_SPI3_Init	8	static
+b_l475e_iot01a_bus.c:88:9:BSP_SPI3_Init	48	static

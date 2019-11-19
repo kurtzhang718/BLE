@@ -1,0 +1,6 @@
+gatt_db.c:69:12:Add_HWServW2ST_Service	64	static
+gatt_db.c:117:12:Add_SWServW2ST_Service	64	static
+gatt_db.c:156:12:Acc_Update	48	static
+gatt_db.c:190:12:Quat_Update	24	static
+gatt_db.c:267:12:BlueMS_Environmental_Update	32	static
+gatt_db.c:241:6:Read_Request_CB	24	static

@@ -1,0 +1,7 @@
+hci_tl_interface.c:44:9:HCI_TL_SPI_Init	40	static
+hci_tl_interface.c:79:9:HCI_TL_SPI_DeInit	8	static
+hci_tl_interface.c:93:9:HCI_TL_SPI_Reset	8	static
+hci_tl_interface.c:109:9:HCI_TL_SPI_Receive	48	static
+hci_tl_interface.c:168:9:HCI_TL_SPI_Send	48	static
+hci_tl_interface.c:275:6:hci_tl_lowlevel_isr	8	static
+hci_tl_interface.c:236:6:hci_tl_lowlevel_init	40	static

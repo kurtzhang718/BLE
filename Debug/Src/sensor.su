@@ -1,0 +1,4 @@
+sensor.c:65:6:Set_DeviceConnectable	88	static
+sensor.c:170:6:GAP_DisconnectionComplete_CB	0	static
+sensor.c:115:6:user_notify	0	static
+sensor.c:185:6:GAP_ConnectionComplete_CB	0	static
